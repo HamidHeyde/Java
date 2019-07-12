@@ -1,0 +1,78 @@
+
+Hello, Advisor 1234
+Connecting to => Software Engineering Department @[ 2018/10/12 17:17:47 ]
+Operation Requested:addcourse @[ 2018/10/12 17:17:53 ]
+Advisor addCourse Function @[ 2018/10/12 17:17:53 ]
+Please type in the Course ID @[ 2018/10/12 17:17:53 ]
+Please Enter the Semester @[ 2018/10/12 17:17:56 ]
+The Course Added Successfully! @[ 2018/10/12 17:17:58 ]
+Operation Requested:addcourse @[ 2018/10/12 17:18:00 ]
+Advisor addCourse Function @[ 2018/10/12 17:18:00 ]
+Please type in the Course ID @[ 2018/10/12 17:18:00 ]
+Please Enter the Semester @[ 2018/10/12 17:18:04 ]
+The Course Added Successfully! @[ 2018/10/12 17:18:05 ]
+Operation Requested:addcourse @[ 2018/10/12 17:18:08 ]
+Advisor addCourse Function @[ 2018/10/12 17:18:08 ]
+Please type in the Course ID @[ 2018/10/12 17:18:08 ]
+Please Enter the Semester @[ 2018/10/12 17:18:13 ]
+The Course Added Successfully! @[ 2018/10/12 17:18:15 ]
+Operation Requested:addcourse @[ 2018/10/12 17:18:19 ]
+Advisor addCourse Function @[ 2018/10/12 17:18:19 ]
+Please type in the Course ID @[ 2018/10/12 17:18:19 ]
+Please Enter the Semester @[ 2018/10/12 17:18:24 ]
+The Course Added Successfully! @[ 2018/10/12 17:18:25 ]
+Operation Requested:addcourse @[ 2018/10/12 17:18:27 ]
+Advisor addCourse Function @[ 2018/10/12 17:18:27 ]
+Please type in the Course ID @[ 2018/10/12 17:18:27 ]
+Please Enter the Semester @[ 2018/10/12 17:18:30 ]
+The Course Added Successfully! @[ 2018/10/12 17:18:32 ]
+Operation Requested:listCourseAvailability @[ 2018/10/12 17:18:35 ]
+Advisor listCourseAvailability Function @[ 2018/10/12 17:18:35 ]
+Please Enter the Semester @[ 2018/10/12 17:18:35 ]
+soen1234>40*soen2345>40
+comp1234>40*comp0987>40
+inse1234>40*inse4321>40*inse0987>40*inse7890>40 @[ 2018/10/12 17:18:37 ]
+Operation Requested:listCourseAvailability @[ 2018/10/12 17:18:38 ]
+Advisor listCourseAvailability Function @[ 2018/10/12 17:18:38 ]
+Please Enter the Semester @[ 2018/10/12 17:18:38 ]
+soen0987>40*soen3456>40
+comp3456>40
+inse0987>40*inse1234>40 @[ 2018/10/12 17:18:40 ]
+Operation Requested:listCourseAvailability @[ 2018/10/12 17:18:42 ]
+Advisor listCourseAvailability Function @[ 2018/10/12 17:18:42 ]
+Please Enter the Semester @[ 2018/10/12 17:18:42 ]
+soen0987>40
+comp1234>40*comp0987>40*comp6789>40
+inse4567>40 @[ 2018/10/12 17:18:51 ]
+Operation Requested:listCourseAvailability @[ 2018/10/12 17:21:03 ]
+Advisor listCourseAvailability Function @[ 2018/10/12 17:21:03 ]
+Please Enter the Semester @[ 2018/10/12 17:21:03 ]
+soen1234>40*soen2345>39
+comp1234>39*comp0987>40
+inse1234>40*inse4321>40*inse0987>39*inse7890>40 @[ 2018/10/12 17:21:05 ]
+Operation Requested:listCourseAvailability @[ 2018/10/12 17:21:16 ]
+Advisor listCourseAvailability Function @[ 2018/10/12 17:21:16 ]
+Please Enter the Semester @[ 2018/10/12 17:21:16 ]
+soen0987>40*soen3456>40
+comp3456>40
+inse0987>40*inse1234>40 @[ 2018/10/12 17:21:17 ]
+Operation Requested:listCourseAvailability @[ 2018/10/12 17:21:24 ]
+Advisor listCourseAvailability Function @[ 2018/10/12 17:21:24 ]
+Please Enter the Semester @[ 2018/10/12 17:21:24 ]
+soen0987>40
+comp1234>40*comp0987>40*comp6789>40
+inse4567>40 @[ 2018/10/12 17:21:25 ]
+Operation Requested:listCourseAvailability @[ 2018/10/12 17:21:52 ]
+Advisor listCourseAvailability Function @[ 2018/10/12 17:21:52 ]
+Please Enter the Semester @[ 2018/10/12 17:21:52 ]
+soen1234>40*soen2345>39
+comp1234>39*comp0987>40
+inse1234>40*inse4321>40*inse0987>40*inse7890>40 @[ 2018/10/12 17:21:54 ]
+Operation Requested:listCourseAvailability @[ 2018/10/12 17:22:29 ]
+Advisor listCourseAvailability Function @[ 2018/10/12 17:22:29 ]
+Please Enter the Semester @[ 2018/10/12 17:22:29 ]
+soen1234>40*soen2345>39
+comp1234>39*comp0987>40
+inse1234>39*inse4321>40*inse0987>40*inse7890>40 @[ 2018/10/12 17:22:31 ]
+Operation Requested:exit @[ 2018/10/12 17:22:48 ]
+... BYE ... @[ 2018/10/12 17:22:48 ]
