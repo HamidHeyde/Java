@@ -1,0 +1,173 @@
+
+Hello, Advisor 1234
+Connecting to => Computer Science Department @[ 2018/10/27 15:48:09 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 15:48:16 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 15:48:16 ]
+Please Enter the Semester @[ 2018/10/27 15:48:16 ]
+No Course to Display!
+No Course to Display!
+No Course to Display! @[ 2018/10/27 15:48:18 ]
+Operation Requested:addcourse @[ 2018/10/27 15:48:38 ]
+Advisor addCourse Function @[ 2018/10/27 15:48:38 ]
+Please type in the Course ID @[ 2018/10/27 15:48:38 ]
+Please Enter the Semester @[ 2018/10/27 15:48:44 ]
+The Course Added Successfully! @[ 2018/10/27 15:48:46 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 15:48:49 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 15:48:49 ]
+Please Enter the Semester @[ 2018/10/27 15:48:49 ]
+comp1234>40
+No Course to Display!
+No Course to Display! @[ 2018/10/27 15:48:51 ]
+Operation Requested:addcourse @[ 2018/10/27 15:49:24 ]
+Advisor addCourse Function @[ 2018/10/27 15:49:24 ]
+Please type in the Course ID @[ 2018/10/27 15:49:24 ]
+Please Enter the Semester @[ 2018/10/27 15:49:33 ]
+The Course Added Successfully! @[ 2018/10/27 15:49:34 ]
+Operation Requested:addcourse @[ 2018/10/27 15:49:39 ]
+Advisor addCourse Function @[ 2018/10/27 15:49:39 ]
+Please type in the Course ID @[ 2018/10/27 15:49:39 ]
+Please Enter the Semester @[ 2018/10/27 15:49:42 ]
+The Course Added Successfully! @[ 2018/10/27 15:49:44 ]
+Operation Requested:addcourse @[ 2018/10/27 15:49:54 ]
+Advisor addCourse Function @[ 2018/10/27 15:49:54 ]
+Please type in the Course ID @[ 2018/10/27 15:49:54 ]
+Please Enter the Semester @[ 2018/10/27 15:50:04 ]
+The Course Added Successfully! @[ 2018/10/27 15:50:05 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 15:50:07 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 15:50:07 ]
+Please Enter the Semester @[ 2018/10/27 15:50:07 ]
+comp1234>40*comp0987>40
+No Course to Display!
+No Course to Display! @[ 2018/10/27 15:50:09 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 15:50:11 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 15:50:11 ]
+Please Enter the Semester @[ 2018/10/27 15:50:11 ]
+comp1234>40
+No Course to Display!
+No Course to Display! @[ 2018/10/27 15:50:13 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 15:50:15 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 15:50:15 ]
+Please Enter the Semester @[ 2018/10/27 15:50:15 ]
+comp0987>40
+No Course to Display!
+No Course to Display! @[ 2018/10/27 15:50:17 ]
+Operation Requested:exit @[ 2018/10/27 15:50:23 ]
+... BYE ... @[ 2018/10/27 15:50:23 ]
+Hello, Advisor 1234
+Connecting to => Computer Science Department @[ 2018/10/27 16:00:02 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 16:00:07 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 16:00:07 ]
+Please Enter the Semester @[ 2018/10/27 16:00:07 ]
+comp1234>39*comp0987>40
+soen1234>40
+inse1234>40 @[ 2018/10/27 16:00:08 ]
+Operation Requested:exit @[ 2018/10/27 16:01:01 ]
+... BYE ... @[ 2018/10/27 16:01:01 ]
+Hello, Advisor 1234
+Connecting to => Computer Science Department @[ 2018/10/27 16:05:39 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 16:05:43 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 16:05:43 ]
+Please Enter the Semester @[ 2018/10/27 16:05:43 ]
+comp1234>39*comp0987>40
+soen1234>40
+inse1234>39 @[ 2018/10/27 16:05:44 ]
+Operation Requested:exit @[ 2018/10/27 16:06:59 ]
+... BYE ... @[ 2018/10/27 16:06:59 ]
+Hello, Advisor 1234
+Connecting to => Computer Science Department @[ 2018/10/27 16:14:21 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 16:14:26 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 16:14:26 ]
+Please Enter the Semester @[ 2018/10/27 16:14:26 ]
+comp1234>40*comp0987>40
+soen1234>39
+inse1234>38 @[ 2018/10/27 16:14:28 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 16:14:29 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 16:14:29 ]
+Please Enter the Semester @[ 2018/10/27 16:14:29 ]
+comp1234>40
+soen0987>40
+inse1234>40*inse0987>40 @[ 2018/10/27 16:14:31 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 16:14:36 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 16:14:36 ]
+Please Enter the Semester @[ 2018/10/27 16:14:36 ]
+comp0987>40
+soen1234>40*soen0987>40
+inse0987>40 @[ 2018/10/27 16:14:38 ]
+Hello, Advisor 1234
+Connecting to => Computer Science Department @[ 2018/10/27 17:16:47 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 17:17:04 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 17:17:04 ]
+Please Enter the Semester @[ 2018/10/27 17:17:04 ]
+comp1234>39*comp0987>40
+soen1234>39
+inse1234>38 @[ 2018/10/27 17:17:05 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 17:17:07 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 17:17:07 ]
+Please Enter the Semester @[ 2018/10/27 17:17:07 ]
+comp1234>39*comp0987>40
+soen1234>39
+inse1234>38 @[ 2018/10/27 17:17:09 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 17:17:10 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 17:17:10 ]
+Please Enter the Semester @[ 2018/10/27 17:17:10 ]
+comp1234>39
+soen0987>39
+inse1234>40*inse0987>40 @[ 2018/10/27 17:17:12 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 17:17:13 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 17:17:13 ]
+Please Enter the Semester @[ 2018/10/27 17:17:13 ]
+comp0987>40
+soen1234>40*soen0987>40
+inse0987>39 @[ 2018/10/27 17:17:16 ]
+Hello, Advisor 1234
+Connecting to => Computer Science Department @[ 2018/10/27 18:45:46 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 18:45:52 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 18:45:52 ]
+Please Enter the Semester @[ 2018/10/27 18:45:52 ]
+comp1234>38*comp0987>40
+soen1234>37
+inse1234>36 @[ 2018/10/27 18:45:57 ]
+Operation Requested:addcourse @[ 2018/10/27 18:46:02 ]
+Advisor addCourse Function @[ 2018/10/27 18:46:02 ]
+Please type in the Course ID @[ 2018/10/27 18:46:02 ]
+Please Enter the Semester @[ 2018/10/27 18:46:06 ]
+Please Enter Capacity for the Course @[ 2018/10/27 18:46:09 ]
+The Course Added Successfully! @[ 2018/10/27 18:46:10 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 18:46:14 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 18:46:14 ]
+Please Enter the Semester @[ 2018/10/27 18:46:14 ]
+comp1234>38*comp0987>40*comp3456>1
+soen1234>37
+inse1234>36 @[ 2018/10/27 18:46:15 ]
+Operation Requested:addcourse @[ 2018/10/27 18:46:20 ]
+Advisor addCourse Function @[ 2018/10/27 18:46:20 ]
+Please type in the Course ID @[ 2018/10/27 18:46:20 ]
+Please Enter the Semester @[ 2018/10/27 18:46:23 ]
+Please Enter Capacity for the Course @[ 2018/10/27 18:46:26 ]
+Not the right Capacity! Try again..  @[ 2018/10/27 18:46:27 ]
+Operation Requested:addcourse @[ 2018/10/27 18:46:30 ]
+Advisor addCourse Function @[ 2018/10/27 18:46:30 ]
+Please type in the Course ID @[ 2018/10/27 18:46:30 ]
+Please Enter the Semester @[ 2018/10/27 18:47:24 ]
+Please Enter Capacity for the Course @[ 2018/10/27 18:47:28 ]
+Not the right Capacity! Try again..  @[ 2018/10/27 18:47:29 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 18:47:32 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 18:47:32 ]
+Please Enter the Semester @[ 2018/10/27 18:47:32 ]
+comp1234>38*comp0987>40*comp3456>1
+soen1234>37
+inse1234>36 @[ 2018/10/27 18:47:41 ]
+Operation Requested:addcourse @[ 2018/10/27 18:47:51 ]
+Advisor addCourse Function @[ 2018/10/27 18:47:51 ]
+Please type in the Course ID @[ 2018/10/27 18:47:51 ]
+Please Enter the Semester @[ 2018/10/27 18:47:58 ]
+Please Enter Capacity for the Course @[ 2018/10/27 18:48:00 ]
+The Course Added Successfully! @[ 2018/10/27 18:48:04 ]
+Operation Requested:listCourseAvailability @[ 2018/10/27 18:48:05 ]
+Advisor listCourseAvailability Function @[ 2018/10/27 18:48:05 ]
+Please Enter the Semester @[ 2018/10/27 18:48:05 ]
+comp1234>38*comp9876>4
+soen0987>38
+inse1234>39*inse0987>40 @[ 2018/10/27 18:48:07 ]
+Operation Requested:exit @[ 2018/10/27 18:48:17 ]
+... BYE ... @[ 2018/10/27 18:48:17 ]
