@@ -1,0 +1,9 @@
+
+Hello, Advisor 1123
+Connecting to => Front End @[ 2018/12/02 21:50:23 ]
+Operation Requested:addcourse @[ 2018/12/02 21:50:28 ]
+Advisor addCourse Function @[ 2018/12/02 21:50:28 ]
+Please type in the Course ID @[ 2018/12/02 21:50:28 ]
+Please Enter the Semester @[ 2018/12/02 21:50:36 ]
+Please Enter Capacity for the Course @[ 2018/12/02 21:50:39 ]
+The Course Added Successfully! @[ 2018/12/02 21:50:41 ]

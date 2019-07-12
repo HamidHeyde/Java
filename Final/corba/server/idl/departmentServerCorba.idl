@@ -1,0 +1,15 @@
+module server{
+    module idl{
+        module departmentServerCorba{
+            interface departmentServerInterface{
+                string addCourse(in string advisorID, in string courseID, in string semester, in string capacity);
+                string removeCourse(in string advisorID, in string courseID, in string semester);
+                string listCourseAvailability(in string advisorID, in string semester);
+                string enrolCourse(in string studentID, in string courseID, in string semester);
+                string dropCourse(in string studentID, in string courseID);
+                string getClassSchedule(in string studentID);
+                string swapCourse(in string studentID,in string newCourseID,in string  oldCourseID,in string semester);
+            };
+        };
+    };
+};

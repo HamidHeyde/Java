@@ -1,0 +1,111 @@
+
+Hello, Advisor 1234
+Connecting to => Front End @[ 2018/12/02 19:16:20 ]
+Operation Requested:addCourse @[ 2018/12/02 19:16:26 ]
+Advisor addCourse Function @[ 2018/12/02 19:16:26 ]
+Please type in the Course ID @[ 2018/12/02 19:16:26 ]
+Wrong Course ID Format! Try again.. @[ 2018/12/02 19:16:29 ]
+Operation Requested:addcourse @[ 2018/12/02 19:16:35 ]
+Advisor addCourse Function @[ 2018/12/02 19:16:35 ]
+Please type in the Course ID @[ 2018/12/02 19:16:35 ]
+Please Enter the Semester @[ 2018/12/02 19:16:41 ]
+Please Enter Capacity for the Course @[ 2018/12/02 19:16:43 ]
+The Course Added Successfully! @[ 2018/12/02 19:16:53 ]
+Hello, Advisor 1234
+Connecting to => Front End @[ 2018/12/02 19:23:21 ]
+Hello, Advisor 1234
+Connecting to => Front End @[ 2018/12/02 19:24:06 ]
+Operation Requested:addcourse @[ 2018/12/02 19:24:09 ]
+Advisor addCourse Function @[ 2018/12/02 19:24:09 ]
+Please type in the Course ID @[ 2018/12/02 19:24:09 ]
+Please Enter the Semester @[ 2018/12/02 19:24:13 ]
+Please Enter Capacity for the Course @[ 2018/12/02 19:24:15 ]
+The Course Added Successfully! @[ 2018/12/02 19:24:17 ]
+Operation Requested:addcourse @[ 2018/12/02 19:24:26 ]
+Advisor addCourse Function @[ 2018/12/02 19:24:26 ]
+Please type in the Course ID @[ 2018/12/02 19:24:26 ]
+Please Enter the Semester @[ 2018/12/02 19:24:39 ]
+Please Enter Capacity for the Course @[ 2018/12/02 19:25:14 ]
+The Course Added Successfully! @[ 2018/12/02 19:25:37 ]
+Operation Requested:addcourse @[ 2018/12/02 19:25:44 ]
+Advisor addCourse Function @[ 2018/12/02 19:25:44 ]
+Please type in the Course ID @[ 2018/12/02 19:25:44 ]
+Please Enter the Semester @[ 2018/12/02 19:25:48 ]
+Please Enter Capacity for the Course @[ 2018/12/02 19:25:50 ]
+The Course Added Successfully! @[ 2018/12/02 19:25:52 ]
+Operation Requested:exit @[ 2018/12/02 19:25:57 ]
+... BYE ... @[ 2018/12/02 19:25:57 ]
+Hello, Advisor 1234
+Connecting to => Front End @[ 2018/12/02 19:26:10 ]
+Operation Requested:listCourseAvailability @[ 2018/12/02 19:26:14 ]
+Advisor listCourseAvailability Function @[ 2018/12/02 19:26:14 ]
+Please Enter the Semester @[ 2018/12/02 19:26:14 ]
+comp1111>10
+No Course to Display!
+No Course to Display! @[ 2018/12/02 19:26:16 ]
+Operation Requested:exit @[ 2018/12/02 19:26:23 ]
+... BYE ... @[ 2018/12/02 19:26:23 ]
+Hello, Advisor 1234
+Connecting to => Front End @[ 2018/12/02 21:39:32 ]
+Operation Requested:listCourseAvailability @[ 2018/12/02 21:39:36 ]
+Advisor listCourseAvailability Function @[ 2018/12/02 21:39:36 ]
+Please Enter the Semester @[ 2018/12/02 21:39:36 ]
+comp1111>9
+No Course to Display!
+No Course to Display! @[ 2018/12/02 21:39:38 ]
+Hello, Advisor 1234
+Connecting to => Front End @[ 2018/12/02 21:54:33 ]
+Operation Requested:addCourse @[ 2018/12/02 21:54:39 ]
+Advisor addCourse Function @[ 2018/12/02 21:54:39 ]
+Please type in the Course ID @[ 2018/12/02 21:54:39 ]
+Wrong Course ID Format! Try again.. @[ 2018/12/02 21:54:43 ]
+Operation Requested:listcourseavailability @[ 2018/12/02 21:54:54 ]
+Advisor listCourseAvailability Function @[ 2018/12/02 21:54:54 ]
+Please Enter the Semester @[ 2018/12/02 21:54:54 ]
+comp1111>9*comp6666>4
+No Course to Display!
+No Course to Display! @[ 2018/12/02 21:54:59 ]
+Operation Requested:listcourseavailability @[ 2018/12/02 21:55:40 ]
+Advisor listCourseAvailability Function @[ 2018/12/02 21:55:40 ]
+Please Enter the Semester @[ 2018/12/02 21:55:40 ]
+comp1111>9*comp6666>4
+No Course to Display!
+No Course to Display! @[ 2018/12/02 21:55:44 ]
+Hello, Advisor 1234
+Connecting to => Front End @[ 2018/12/02 22:01:35 ]
+Operation Requested:listCourseAvailability @[ 2018/12/02 22:01:45 ]
+Advisor listCourseAvailability Function @[ 2018/12/02 22:01:45 ]
+Please Enter the Semester @[ 2018/12/02 22:01:45 ]
+comp1111>9*comp6666>4
+No Course to Display!
+No Course to Display! @[ 2018/12/02 22:01:51 ]
+Hello, Advisor 1234
+Connecting to => Front End @[ 2018/12/02 22:08:04 ]
+Operation Requested:listCourseAvailability @[ 2018/12/02 22:08:09 ]
+Advisor listCourseAvailability Function @[ 2018/12/02 22:08:09 ]
+Please Enter the Semester @[ 2018/12/02 22:08:09 ]
+comp1111>9*comp6666>4
+No Course to Display!
+No Course to Display! @[ 2018/12/02 22:08:14 ]
+Hello, Advisor 1234
+Connecting to => Front End @[ 2018/12/02 22:16:52 ]
+Operation Requested:listCourseAvailability @[ 2018/12/02 22:16:58 ]
+Advisor listCourseAvailability Function @[ 2018/12/02 22:16:58 ]
+Please Enter the Semester @[ 2018/12/02 22:16:58 ]
+comp1111>9*comp6666>4
+No Course to Display!
+No Course to Display! @[ 2018/12/02 22:17:03 ]
+Hello, Advisor 1234
+Connecting to => Front End @[ 2018/12/02 22:23:57 ]
+Operation Requested:listCourseAvailability @[ 2018/12/02 22:24:06 ]
+Advisor listCourseAvailability Function @[ 2018/12/02 22:24:06 ]
+Please Enter the Semester @[ 2018/12/02 22:24:06 ]
+comp1111>9*comp6666>4
+No Course to Display!
+No Course to Display! @[ 2018/12/02 22:24:08 ]
+Operation Requested:listcourseavailability @[ 2018/12/02 22:24:37 ]
+Advisor listCourseAvailability Function @[ 2018/12/02 22:24:37 ]
+Please Enter the Semester @[ 2018/12/02 22:24:37 ]
+comp1111>9*comp6666>4
+No Course to Display!
+No Course to Display! @[ 2018/12/02 22:24:39 ]
