@@ -1,0 +1,197 @@
+
+Hello, Advisor 1234
+Connecting to => Information Security Department @[ 2018/11/23 14:53:34 ]
+Operation Requested:listCourseAvailability @[ 2018/11/23 14:53:47 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 14:53:47 ]
+Please Enter the Semester @[ 2018/11/23 14:53:47 ]
+No Course to Display!
+comp1111>10
+soen1111>10 @[ 2018/11/23 14:53:51 ]
+Operation Requested:listCourseAvailability @[ 2018/11/23 14:53:55 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 14:53:55 ]
+Please Enter the Semester @[ 2018/11/23 14:53:55 ]
+No Course to Display!
+comp1111>10
+soen1111>10 @[ 2018/11/23 14:53:57 ]
+Operation Requested:listCourseAvailability @[ 2018/11/23 14:54:08 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 14:54:08 ]
+Please Enter the Semester @[ 2018/11/23 14:54:08 ]
+No Course to Display!
+comp2222>10
+soen2222>10 @[ 2018/11/23 14:54:14 ]
+Operation Requested:listCourseAvailability @[ 2018/11/23 14:54:15 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 14:54:15 ]
+Please Enter the Semester @[ 2018/11/23 14:54:15 ]
+No Course to Display!
+comp3333>10
+soen3333>10 @[ 2018/11/23 14:54:17 ]
+Operation Requested:addcourse @[ 2018/11/23 14:54:31 ]
+Advisor addCourse Function @[ 2018/11/23 14:54:31 ]
+Please type in the Course ID @[ 2018/11/23 14:54:31 ]
+Please Enter the Semester @[ 2018/11/23 14:54:37 ]
+Please Enter Capacity for the Course @[ 2018/11/23 14:54:38 ]
+The Course Added Successfully! @[ 2018/11/23 14:54:43 ]
+Operation Requested:addcourse @[ 2018/11/23 14:54:47 ]
+Advisor addCourse Function @[ 2018/11/23 14:54:47 ]
+Please type in the Course ID @[ 2018/11/23 14:54:47 ]
+Please Enter the Semester @[ 2018/11/23 14:54:52 ]
+Please Enter Capacity for the Course @[ 2018/11/23 14:54:55 ]
+The Course Added Successfully! @[ 2018/11/23 14:54:59 ]
+Operation Requested:addcourse @[ 2018/11/23 14:55:07 ]
+Advisor addCourse Function @[ 2018/11/23 14:55:07 ]
+Please type in the Course ID @[ 2018/11/23 14:55:07 ]
+Please Enter the Semester @[ 2018/11/23 14:55:09 ]
+Please Enter Capacity for the Course @[ 2018/11/23 14:55:12 ]
+The Course Added Successfully! @[ 2018/11/23 14:55:36 ]
+Operation Requested:addcourse @[ 2018/11/23 14:55:39 ]
+Advisor addCourse Function @[ 2018/11/23 14:55:39 ]
+Please type in the Course ID @[ 2018/11/23 14:55:39 ]
+Please Enter the Semester @[ 2018/11/23 14:55:43 ]
+Please Enter Capacity for the Course @[ 2018/11/23 14:55:45 ]
+The Course Added Successfully! @[ 2018/11/23 14:55:48 ]
+Operation Requested:listCourseAvailability @[ 2018/11/23 14:55:51 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 14:55:51 ]
+Please Enter the Semester @[ 2018/11/23 14:55:51 ]
+inse1111>10*inse1112>1
+comp1111>10
+soen1111>10 @[ 2018/11/23 14:55:53 ]
+Operation Requested:listCourseAvailability @[ 2018/11/23 14:55:54 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 14:55:54 ]
+Please Enter the Semester @[ 2018/11/23 14:55:54 ]
+inse2222>2*inse3333>10
+comp2222>10
+soen2222>10 @[ 2018/11/23 14:55:57 ]
+Operation Requested:listCourseAvailability @[ 2018/11/23 14:55:59 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 14:55:59 ]
+Please Enter the Semester @[ 2018/11/23 14:55:59 ]
+No Course to Display!
+comp3333>10
+soen3333>10 @[ 2018/11/23 14:56:00 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:15:43 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:15:43 ]
+Please Enter the Semester @[ 2018/11/23 16:15:44 ]
+inse1111>10*inse1112>0
+comp1111>9
+soen1111>9 @[ 2018/11/23 16:15:46 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:15:55 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:15:55 ]
+Please Enter the Semester @[ 2018/11/23 16:15:55 ]
+inse2222>2*inse3333>10
+comp2222>10
+soen2222>10 @[ 2018/11/23 16:16:03 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:16:09 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:16:09 ]
+Please Enter the Semester @[ 2018/11/23 16:16:09 ]
+No Course to Display!
+comp3333>10
+soen3333>10 @[ 2018/11/23 16:16:11 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:20:35 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:20:35 ]
+Please Enter the Semester @[ 2018/11/23 16:20:35 ]
+inse1111>1*inse1112>1
+comp1111>9*comp1119>9
+soen1111>9*soen1112>9 @[ 2018/11/23 16:20:38 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:20:40 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:20:40 ]
+Please Enter the Semester @[ 2018/11/23 16:20:40 ]
+inse2222>2*inse3333>10
+comp2222>10
+soen2222>10*soen2225>10 @[ 2018/11/23 16:20:42 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:20:43 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:20:43 ]
+Please Enter the Semester @[ 2018/11/23 16:20:43 ]
+No Course to Display!
+comp3333>10*comp3336>10
+soen3333>10*soen3334>10 @[ 2018/11/23 16:20:46 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:31:18 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:31:18 ]
+Please Enter the Semester @[ 2018/11/23 16:31:18 ]
+inse1111>1*inse1112>1
+comp1111>9*comp1119>9
+soen1111>9*soen1112>9 @[ 2018/11/23 16:31:21 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:31:24 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:31:24 ]
+Please Enter the Semester @[ 2018/11/23 16:31:24 ]
+inse2222>2*inse3333>10
+comp2222>10
+soen2222>10*soen2225>10 @[ 2018/11/23 16:31:25 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:31:27 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:31:27 ]
+Please Enter the Semester @[ 2018/11/23 16:31:27 ]
+No Course to Display!
+comp3333>10*comp3336>10
+soen3333>10*soen3334>10 @[ 2018/11/23 16:31:28 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:35:10 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:35:10 ]
+Please Enter the Semester @[ 2018/11/23 16:35:10 ]
+inse1111>0*inse1112>1
+comp1111>8*comp1119>9
+soen1111>9*soen1112>8 @[ 2018/11/23 16:35:11 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:35:12 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:35:12 ]
+Please Enter the Semester @[ 2018/11/23 16:35:12 ]
+inse2222>2*inse3333>10
+comp2222>9
+soen2222>10*soen2225>10 @[ 2018/11/23 16:35:14 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:35:15 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:35:15 ]
+Please Enter the Semester @[ 2018/11/23 16:35:15 ]
+No Course to Display!
+comp3333>10*comp3336>10
+soen3333>10*soen3334>10 @[ 2018/11/23 16:35:17 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:35:57 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:35:57 ]
+Please Enter the Semester @[ 2018/11/23 16:35:57 ]
+inse1111>0*inse1112>1
+comp1111>8*comp1119>9
+soen1111>9*soen1112>8 @[ 2018/11/23 16:35:59 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:36:00 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:36:00 ]
+Please Enter the Semester @[ 2018/11/23 16:36:00 ]
+inse2222>2*inse3333>10
+comp2222>9
+soen2222>10*soen2225>10 @[ 2018/11/23 16:36:01 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:36:02 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:36:02 ]
+Please Enter the Semester @[ 2018/11/23 16:36:02 ]
+No Course to Display!
+comp3333>10*comp3336>10
+soen3333>10*soen3334>10 @[ 2018/11/23 16:36:04 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:37:53 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:37:53 ]
+Please Enter the Semester @[ 2018/11/23 16:37:53 ]
+inse1111>0*inse1112>1
+comp1111>9*comp1119>8
+soen1111>9*soen1112>8 @[ 2018/11/23 16:37:55 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:37:56 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:37:56 ]
+Please Enter the Semester @[ 2018/11/23 16:37:56 ]
+inse2222>2*inse3333>10
+comp2222>9
+soen2222>10*soen2225>10 @[ 2018/11/23 16:37:58 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:37:59 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:37:59 ]
+Please Enter the Semester @[ 2018/11/23 16:37:59 ]
+No Course to Display!
+comp3333>10*comp3336>10
+soen3333>10*soen3334>10 @[ 2018/11/23 16:38:03 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:38:46 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:38:46 ]
+Please Enter the Semester @[ 2018/11/23 16:38:46 ]
+inse1111>1*inse1112>0
+comp1111>9*comp1119>8
+soen1111>9*soen1112>8 @[ 2018/11/23 16:38:48 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:38:49 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:38:49 ]
+Please Enter the Semester @[ 2018/11/23 16:38:49 ]
+inse2222>2*inse3333>10
+comp2222>9
+soen2222>10*soen2225>10 @[ 2018/11/23 16:38:51 ]
+Operation Requested:listcourseavailability @[ 2018/11/23 16:38:52 ]
+Advisor listCourseAvailability Function @[ 2018/11/23 16:38:52 ]
+Please Enter the Semester @[ 2018/11/23 16:38:52 ]
+No Course to Display!
+comp3333>10*comp3336>10
+soen3333>10*soen3334>10 @[ 2018/11/23 16:38:54 ]
+Operation Requested:exit @[ 2018/11/23 16:46:11 ]
+... BYE ... @[ 2018/11/23 16:46:11 ]

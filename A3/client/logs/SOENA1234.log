@@ -1,0 +1,54 @@
+
+Hello, Advisor 1234
+Connecting to => Software Engineering Department @[ 2018/11/22 17:19:01 ]
+Operation Requested:listcourseavailabitlity @[ 2018/11/22 17:19:10 ]
+Invalid Operation, Try Again... @[ 2018/11/22 17:19:10 ]
+Operation Requested:listCourseAvailability @[ 2018/11/22 17:19:20 ]
+Advisor listCourseAvailability Function @[ 2018/11/22 17:19:20 ]
+Please Enter the Semester @[ 2018/11/22 17:19:20 ]
+No Course to Display!
+comp1111>10
+No Course to Display! @[ 2018/11/22 17:19:23 ]
+Operation Requested:listCourseAvailability @[ 2018/11/22 17:19:39 ]
+Advisor listCourseAvailability Function @[ 2018/11/22 17:19:39 ]
+Please Enter the Semester @[ 2018/11/22 17:19:39 ]
+No Course to Display!
+comp2222>10
+No Course to Display! @[ 2018/11/22 17:19:42 ]
+Operation Requested:listCourseAvailability @[ 2018/11/22 17:20:05 ]
+Advisor listCourseAvailability Function @[ 2018/11/22 17:20:05 ]
+Please Enter the Semester @[ 2018/11/22 17:20:05 ]
+No Course to Display!
+comp3333>10
+No Course to Display! @[ 2018/11/22 17:20:07 ]
+Operation Requested:addcourse @[ 2018/11/22 17:20:40 ]
+Advisor addCourse Function @[ 2018/11/22 17:20:40 ]
+Please type in the Course ID @[ 2018/11/22 17:20:40 ]
+You cannot add INSE courses @[ 2018/11/22 17:20:54 ]
+Wrong Course ID Format! Try again.. @[ 2018/11/22 17:20:54 ]
+Operation Requested:addcourse @[ 2018/11/22 17:20:58 ]
+Advisor addCourse Function @[ 2018/11/22 17:20:58 ]
+Please type in the Course ID @[ 2018/11/22 17:20:58 ]
+Please Enter the Semester @[ 2018/11/22 17:21:25 ]
+Please Enter Capacity for the Course @[ 2018/11/22 17:21:30 ]
+The Course Added Successfully! @[ 2018/11/22 17:21:32 ]
+Operation Requested:addcourse @[ 2018/11/22 17:21:39 ]
+Advisor addCourse Function @[ 2018/11/22 17:21:39 ]
+Please type in the Course ID @[ 2018/11/22 17:21:39 ]
+Please Enter the Semester @[ 2018/11/22 17:21:44 ]
+Please Enter Capacity for the Course @[ 2018/11/22 17:21:50 ]
+The Course Added Successfully! @[ 2018/11/22 17:21:53 ]
+Operation Requested:addcourse @[ 2018/11/22 17:21:56 ]
+Advisor addCourse Function @[ 2018/11/22 17:21:56 ]
+Please type in the Course ID @[ 2018/11/22 17:21:56 ]
+Please Enter the Semester @[ 2018/11/22 17:22:03 ]
+Please Enter Capacity for the Course @[ 2018/11/22 17:22:06 ]
+The Course Added Successfully! @[ 2018/11/22 17:22:08 ]
+Operation Requested:listCourseAvailability @[ 2018/11/22 17:22:13 ]
+Advisor listCourseAvailability Function @[ 2018/11/22 17:22:13 ]
+Please Enter the Semester @[ 2018/11/22 17:22:13 ]
+soen1111>10
+comp1111>10
+No Course to Display! @[ 2018/11/22 17:22:14 ]
+Operation Requested:exit @[ 2018/11/22 17:23:41 ]
+... BYE ... @[ 2018/11/22 17:23:41 ]
